@@ -1,0 +1,48 @@
+.nav-link{
+    
+    font-size: 22px;
+    font-family: verdana;
+}
+
+body {
+    background-color: rgb(73, 184, 190)  !important;
+}
+
+/*iletisim*/
+
+
+.bas {
+    font-family: "Bradley Hand ITC";
+    text-align: center;
+    font-size: 35px;
+}
+
+
+
+
+
+  
+
+
+.form-group{
+    margin-bottom: 15px;
+}
+
+main .iletisim-container{
+    width: 55%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 10% ;
+    background-color:rgb(210, 232, 233)  ;
+    padding: 12px;
+    border-radius: 2%;
+ 
+}  
+
+footer{
+    height: 70px;
+    
+   
+}
+
+

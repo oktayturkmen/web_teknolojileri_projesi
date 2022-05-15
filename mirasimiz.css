@@ -1,0 +1,68 @@
+.nav-link{
+   
+    font-size: 22px;
+    font-family: verdana;
+
+    }
+
+    body{
+        
+        background: rgb(232, 232, 222) !important;
+    }
+
+
+
+p {
+    font-size: 15px;
+    font-family: verdana;
+    overflow: auto;
+    margin-left: 3%;
+}
+
+
+h1 {
+    color: firebrick;
+    margin-left: 3%;
+    font-size: 32px;
+    text-align: center;
+}
+
+h3 {
+    color: crimson;
+    margin-left: 3%;
+    font-size: 20px;
+}
+
+h4 {
+    color: blue;
+    margin-left: 3%;
+    font-size: 16px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    float: left;
+    text-align: center;
+}
+
+
+
+.kapi {
+    position: relative;
+    background-color: rgb(232, 232, 222);
+    
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+
+footer{
+    height: 70px;
+    
+   
+}
+
+
+

@@ -1,0 +1,62 @@
+body {
+    background-color:rgb(232, 232, 222) !important;
+    
+
+
+}
+
+.nav-link {
+   
+    font-size: 22px;
+    font-family: verdana;
+}
+
+
+
+
+p {
+    font-size: 15px;
+    font-family: verdana;
+    overflow: auto;
+}
+
+
+h1 {
+    color: firebrick;
+    margin-left: 3%;
+    text-align: center;
+    font-size: 32px;
+}
+
+ 
+
+
+h2 {
+    color: rgb(8, 8, 20);
+    
+    font-size: medium;
+}
+h3{
+    color: blue;
+    font-size: 20px;
+
+}
+
+img {
+    width: 28%;
+    height: auto;
+    margin-left: 3%;
+    display: inline-block;
+}
+footer{
+    height: 70px;
+    
+   
+}
+
+
+
+
+    
+
+

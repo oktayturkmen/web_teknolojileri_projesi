@@ -1,0 +1,54 @@
+/* Site arkaplan resmi ayarlaması */
+body {
+
+    background: url(../images/background/yeni.jpg) no-repeat center fixed;
+    background-size: cover;
+    font-family: 'BioRhyme';
+
+   
+
+
+}  
+
+
+
+.nav-link{
+    
+    font-size: 22px;
+    font-family: verdana;
+}
+
+
+
+/*icerik container'ının arkaplanı beyaz yapıldı */
+
+.container.mekanlar {
+    background: white;
+
+
+}
+
+/* Satırlardaki her şey center'a hizalandı */
+.row {
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+/* metin class'ının arkaplanı siyah yapıldı */
+.metin {
+    color: black;
+
+}
+footer{
+    height: 70px;
+    
+   
+}
+
+
